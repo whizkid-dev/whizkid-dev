@@ -51,10 +51,9 @@ What started as a solo journey in 2019 evolved into a dedicated team. My partner
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=whizkid-dev&show_icons=true&theme=tokyonight" alt="Whiz Kid's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whizkid-dev&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
-</p>
+![Whiz Kid's GitHub stats](https://github-readme-stats.vercel.app/api?username=whizkid-dev&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whizkid-dev&layout=compact&theme=dark)
 
 ---
 
