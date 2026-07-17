@@ -1,36 +1,37 @@
-# 👋 Γεια σας, είμαι ο whiz kid! 
+# 👋 Hi there, I'm whiz kid!
 
-Είμαι Full-Stack Game Server Developer με εξειδίκευση στο οικοσύστημα της Cfx.re (FiveM & RedM) από το 2019. Μαζί με τον συνεργάτη μου, ιδρύσαμε την **Dynamic Development**, όπου δημιουργούμε custom λύσεις, frameworks και βελτιστοποιημένα συστήματα για roleplay servers.
+I am a Full-Stack Game Server Developer specializing in the Cfx.re ecosystem (FiveM & RedM) since 2019. Together with my partner, I co-founded **Dynamic Development**, where we build premium solutions, custom frameworks, and high-performance systems for roleplay servers.
 
-🛒 **Βρείτε τη δουλειά μας εδώ:** [Dynamic Development Store](https://dynamic-development.tebex.io/)
-
----
-
-## 🚀 Η Πορεία μου & Εμπειρία
-
-### 🔹 2019 - Σήμερα: FiveM Development
-Ξεκίνησα το 2019, εστιάζοντας στην αρχιτεκτονική server υψηλών επιδόσεων και στο advanced Lua scripting. 
-* **Frameworks:** Ξέρω απ' έξω και ανακατωτά το **ESX Legacy**, έχοντας χτίσει και διορθώσει αμέτρητα συστήματα πάνω του. Παράλληλα, δουλεύω με άνεση σε **QBCore** και **QBox**.
-* **Εξειδίκευση:** Βελτιστοποίηση κώδικα (optimization), μείωση του server lag, custom οικονομίες και custom συστήματα roleplay που αντέχουν μεγάλο αριθμό παικτών χωρίς drops στα FPS.
-
-### 🔹 2023 (Τέλη) - Σήμερα: Η μετάβαση στο RedM
-Στα τέλη του '23 με αρχές του '24, μπήκα δυναμικά στον χώρο του RedM. 
-* Εκεί ανακάλυψα ένα νέο πάθος, καθώς το Wild West integration απαιτεί πιο βαθιές γνώσεις και καθαρό κώδικα.
-* Πλέον, περνάω τον περισσότερο χρόνο μου γράφοντας προχωρημένα scripts για RedM, δημιουργώντας ρεαλιστικά mechanics, immersion features και σταθερά economy συστήματα για RedM roleplay servers.
+🛒 **Check out our work here:** [Dynamic Development Store](https://dynamic-development.tebex.io/)
 
 ---
 
-## 🛠️ Τεχνολογίες & Εργαλεία
+## 🚀 My Journey & Experience
+
+### 🔹 2019 - Present: FiveM Development
+I started my development journey back in 2019 as a FiveM developer, focusing on high-performance server architecture and advanced Lua scripting.
+* **Frameworks:** I know **ESX Legacy** inside out, having built, optimized, and refactored countless systems on top of it. I am also highly proficient with **QBCore** and **QBox**.
+* **Current Status:** While I am not as intensively active on a daily basis in FiveM as I used to be, I still actively participate, take on projects, and develop custom scripts, offering optimization and performance stability solutions.
+
+### 🔹 2023 (Late) - Present: The Transition to RedM
+Prior to late 2023, I hadn't worked with RedM. However, between late '23 and early '24, I made the leap into Wild West RP development.
+* This is where I discovered a new passion, as RedM development demands deeper architecture knowledge and exceptionally clean code.
+* Nowadays, most of my development energy goes here—writing advanced scripts, realistic mechanics, immersion features, and solid economy systems.
+
+---
+
+## 🛠️ Tech Stack & Tools
 
 * **Languages:** Lua, JavaScript / NUI
-* **Frameworks:** ESX Legacy (Expert), QBCore, QBox, VORP (RedM), RedEM:RP
+* **FiveM Frameworks:** ESX Legacy (Expert), QBCore, QBox
+* **RedM Frameworks:** VORP, RedEM:RP
 * **Tools & Databases:** Git, GitHub, MySQL / OxMySQL, VS Code
-* **Other:** Server Optimization, Database Indexing, NUI Design
+* **Specialties:** Server Optimization, Database Indexing, Custom Scripting from scratch
 
 ---
 
 ## 👥 Dynamic Development
-Μετά από χρόνια free-lancing και ανάπτυξης servers, ενώσαμε τις δυνάμεις μας με τον συνεργάτη μου και δημιουργήσαμε την **Dynamic Development**. Στόχος μας είναι να παρέχουμε premium, optimized και plug-and-play scripts που απογειώνουν το workflow κάθε server owner.
+After years of independent server development, my partner and I joined forces to create **Dynamic Development**. Our mission is to provide premium, optimized, and plug-and-play scripts that streamline the workflow for server owners across both FiveM and RedM.
 
 * 🌐 **Tebex Store:** https://dynamic-development.tebex.io/
 
@@ -43,4 +44,4 @@
 
 ---
 
-📬 **Επικοινωνία:** Μπορείτε να με βρείτε μέσω του Tebex store μας ή να ανοίξετε ένα issue στα αποθετήριά μου εδώ στο GitHub!
+📬 **Contact:** You can reach me through our Tebex store or by opening an issue on my repositories here on GitHub!
