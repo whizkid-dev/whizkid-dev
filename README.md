@@ -47,13 +47,8 @@ What started as a solo journey in 2019 evolved into a dedicated team. My partner
 
 * 🌐 **Tebex Store:** https://dynamic-development.tebex.io/
 
----
 
-## 📈 GitHub Stats
 
-![Whiz Kid's GitHub stats](https://github-readme-stats.vercel.app/api?username=whizkid-dev&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whizkid-dev&layout=compact&theme=dark)
 
 ---
 
