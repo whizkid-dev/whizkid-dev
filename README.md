@@ -1,6 +1,10 @@
 # 👋 Hi there, I'm whiz kid!
 
-I am a Full-Stack Game Server Developer specializing in the Cfx.re ecosystem (FiveM & RedM) since 2019. Originally starting as a solo developer, I later joined forces with my partner during my transition to RedM to co-found **Dynamic Development**, where we now build premium solutions, custom frameworks, and high-performance systems for roleplay servers.
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&vCenter=true&width=450&lines=Full-Stack+Developer;Cfx.re+Specialist;RedM+%26+FiveM+Expert" alt="Typing SVG" />
+</h3>
+
+I am a Game Server Developer specializing in the Cfx.re ecosystem since 2019. Originally starting as a solo developer, I later joined forces with my partner during my transition to RedM to co-found **Dynamic Development**, where we now build premium solutions, custom frameworks, and high-performance systems for roleplay servers.
 
 🛒 **Check out our work here:** [Dynamic Development Store](https://dynamic-development.tebex.io/)
 
@@ -23,11 +27,18 @@ Between late '23 and early '24, I made the leap into Wild West RP development. T
 
 ## 🛠️ Tech Stack & Tools
 
-* **Languages:** Lua, JavaScript / NUI
-* **FiveM Frameworks:** ESX Legacy (Expert), QBCore, QBox
-* **RedM Frameworks:** VORP, RedEM:RP
-* **Tools & Databases:** Git, GitHub, MySQL / OxMySQL, VS Code
-* **Specialties:** Server Optimization, Database Indexing, Custom Scripting from scratch
+### 💻 Languages & Frameworks
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ESX Legacy](https://img.shields.io/badge/FiveM-ESX%20Legacy-orange?style=for-the-badge)
+![QBCore](https://img.shields.io/badge/FiveM-QBCore%20%2F%20QBox-blue?style=for-the-badge)
+![RedM](https://img.shields.io/badge/RedM-VORP%20%2F%20RedEM-red?style=for-the-badge)
+
+### ⚙️ Tools & Databases
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -40,8 +51,10 @@ What started as a solo journey in 2019 evolved into a dedicated team. My partner
 
 ## 📈 GitHub Stats
 
-![Whiz Kid's GitHub stats](https://github-readme-stats.vercel.app/api?username=whizkid-dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whizkid-dev&layout=compact&theme=dark)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=whizkid-dev&show_icons=true&theme=tokyonight" alt="Whiz Kid's GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whizkid-dev&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
+</p>
 
 ---
 
