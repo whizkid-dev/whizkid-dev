@@ -1,12 +1,23 @@
 # 👋 Hi there, I'm whiz kid!
 
 <h3 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&vCenter=true&width=450&lines=Full-Stack+Developer;Cfx.re+Specialist;RedM+%26+FiveM+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&vCenter=true&width=450&lines=Full-Stack+Developer;Cfx.re+Specialist;Web+Developer+%26+Automation+Expert" alt="Typing SVG" />
 </h3>
 
-I am a Game Server Developer specializing in the Cfx.re ecosystem since 2019. Originally starting as a solo developer, I later joined forces with my partner during my transition to RedM to co-found **Dynamic Development**, where we now build premium solutions, custom frameworks, and high-performance systems for roleplay servers.
+I am a Game Server & Full-Stack Web Developer specializing in the Cfx.re ecosystem since 2019. Originally starting as a solo developer, I later co-founded **Dynamic Development**, where we build premium solutions, custom frameworks, and high-performance systems for roleplay servers. Beyond game development, I design and build advanced web applications, automated platforms, and custom integrations.
 
 🛒 **Check out our work here:** [Dynamic Development Store](https://dynamic-development.tebex.io/)
+
+---
+
+## 🛠️ Web Development & Automation Services
+
+Alongside game backend scripting, I build tailored web solutions designed for businesses and gaming communities:
+
+* **Corporate Websites:** Professional, modern, and fully responsive websites tailored for business presentation and branding.
+* **Custom Booking Systems:** Advanced reservation and booking platforms with automated scheduling, user management, and seamless flows.
+* **FiveM & RedM Web APIs:** Custom API integrations connecting your game server directly with web dashboards, Discord bots, or external databases.
+* **Advanced Automation:** Scripting custom automated tasks, payment webhooks, data synchronization, and background processes to eliminate manual work.
 
 ---
 
@@ -36,9 +47,12 @@ I am proud to officially collaborate as an internal partner with **LD Hosting**.
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Languages & Frameworks
+### 💻 Languages, Frameworks & Web Tech
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![ESX Legacy](https://img.shields.io/badge/FiveM-ESX%20Legacy-orange?style=for-the-badge)
 ![QBCore](https://img.shields.io/badge/FiveM-QBCore%20%2F%20QBox-blue?style=for-the-badge)
 ![RedM](https://img.shields.io/badge/RedM-VORP%20%2F%20RedEM-red?style=for-the-badge)
