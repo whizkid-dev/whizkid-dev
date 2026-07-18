@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFCC&vCenter=true&width=450&lines=Full-Stack+Developer;Cfx.re+Specialist;Web+Developer+%26+Automation+Expert" alt="Typing SVG" />
 </h3>
 
-I am a Game Server & Full-Stack Web Developer specializing in the Cfx.re ecosystem since 2019. Originally starting as a solo developer, I later co-founded **Dynamic Development**, where we build premium solutions, custom frameworks, and high-performance systems for roleplay servers. Beyond game development, I design and build advanced web applications, automated platforms, and custom integrations.
+I am a Game Server & Full-Stack Web Developer specializing in the Cfx.re ecosystem since 2019. Originally starting as a solo developer, I later founded **Dynamic Development**, where we build premium solutions, custom frameworks, and high-performance systems for roleplay servers. Beyond game development, I design and build advanced web applications, automated platforms, and custom integrations.
 
 🛒 **Check out our work here:** [Dynamic Development Store](https://dynamic-development.tebex.io/)
 
