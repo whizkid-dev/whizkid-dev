@@ -25,6 +25,15 @@ Between late '23 and early '24, I made the leap into Wild West RP development. T
 
 ---
 
+## 🤝 Strategic Partnerships & Collaborations
+
+### 🖥️ LD Hosting Support & Services
+I am proud to officially collaborate as an internal partner with **LD Hosting**. I highly respect and value their team, and we are currently working together on some incredible, top-tier **LD Services** that are coming very soon. Stay tuned for high-quality infrastructure and development integration!
+
+📢 **Join their community:** [LD Hosting Discord](https://discord.gg/QzvUC86zh)
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Languages & Frameworks
@@ -46,9 +55,6 @@ Between late '23 and early '24, I made the leap into Wild West RP development. T
 What started as a solo journey in 2019 evolved into a dedicated team. My partner and I joined forces to create **Dynamic Development**. Our mission is to provide premium, optimized, and plug-and-play scripts that streamline the workflow for server owners across both FiveM and RedM.
 
 * 🌐 **Tebex Store:** https://dynamic-development.tebex.io/
-
-
-
 
 ---
 
